@@ -6,10 +6,11 @@ import crewai.llms.cache as crew_cache
 crew_cache.mark_cache_breakpoint = lambda msg: msg
 
 from dotenv import load_dotenv
-from crew import research_crew
-import streamlit as st
 
 load_dotenv()
+
+from crew import research_crew
+import streamlit as st
 
 
 def check_api_keys():
