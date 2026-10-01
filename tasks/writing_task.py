@@ -30,3 +30,5 @@ writing_task = Task(
     context=[research_task, analysis_task],
     output_file="final_report.md"
     )
+
+

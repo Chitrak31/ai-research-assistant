@@ -10,8 +10,7 @@ temperature = float(os.getenv("WRITER_AGENT_TEMPERATURE"))
 llm = LLM(
     model=model,
     temperature=temperature,
-    api_key=os.getenv("GROQ_API_KEY"),
-    base_url="https://api.groq.com/openai/v1"
+
 )
 
 
