@@ -1,5 +1,3 @@
-The comprehensive report on AI Agents has been completed and saved as `AI_Agents_Report_2025.md`. Below is the full content of the report:
-
 # Report: The State of AI Agents (2025)
 
 ## Executive Summary
